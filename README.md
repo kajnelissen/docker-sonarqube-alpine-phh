@@ -8,4 +8,4 @@ This image extends the [official Sonarqube docker image](https://hub.docker.com/
 
 ## Running the container with a database ##
 
-[todo]
+See this [docker compose file](https://github.com/kajnelissen/docker-compose-collection/blob/master/sonarqube-php-mariadb/docker-compose.yml) for an example.
